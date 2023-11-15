@@ -511,7 +511,7 @@ $(function () {
       setTimeout(function () {
         $("html, body").animate(
           {
-            scrollTop: $("#portfolio-section").offset().top - 50,
+            scrollTop: $("#services-section").offset().top - 50,
           },
           700,
           "easeInOutExpo",
@@ -531,7 +531,7 @@ $(function () {
       setTimeout(function () {
         $("html, body").animate(
           {
-            scrollTop: $("#portfolio-section").offset().top - 50,
+            scrollTop: $("#services-section").offset().top - 50,
           },
           700,
           "easeInOutExpo"
@@ -597,7 +597,7 @@ $(function () {
           owlSingleSlider();
           $("html, body").animate(
             {
-              scrollTop: $("#portfolio-section").offset().top - 50,
+              scrollTop: $("#services-section").offset().top - 50,
             },
             700,
             "easeInOutExpo",
