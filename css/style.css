@@ -821,7 +821,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   /* border-radius: 10px; */ }
   .testimonial-v1 img {
     width: 200px !important;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     margin: 0 auto 10px auto;
     margin-top: -70px;
     vertical-align: middle;
